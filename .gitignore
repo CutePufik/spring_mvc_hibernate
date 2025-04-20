@@ -1,3 +1,5 @@
+/.idea
+/target
 # Compiled class file
 *.class
 
@@ -24,5 +26,5 @@ hs_err_pid*
 replay_pid*
 
 
-/.idea
+
 target/spring_mvc_hibernate/WEB-INF/applicationContext.xml
